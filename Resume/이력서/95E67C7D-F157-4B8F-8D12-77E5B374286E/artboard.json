@@ -14,7 +14,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -35,7 +35,7 @@
     "y": -104
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -92,8 +92,8 @@
       "id": "43136355-8DA1-4573-942A-7E8BEAC42610"
     }
   ],
-  "name": "A4",
-  "nameIsFixed": false,
+  "name": "SoyePark-resume-2018",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 842,
