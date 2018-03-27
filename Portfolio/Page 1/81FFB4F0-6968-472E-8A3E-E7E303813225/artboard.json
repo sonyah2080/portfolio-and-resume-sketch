@@ -1,0 +1,86 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D6BF0C77-12FF-4863-8C16-67F12A17E48E",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "81FFB4F0-6968-472E-8A3E-E7E303813225",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD366B99-7587-4590-A74A-8DBF0733699C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0720E0C-BF7E-44B1-B982-775AFD0C4B0E",
+    "height": 595,
+    "width": 842,
+    "x": 1097,
+    "y": 38
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE927958-BDFE-4C61-99D7-C4A874243528",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "889A5C81-5C6B-46C4-B57E-52EBEB2672FD"
+    },
+    {
+      "class": "group",
+      "id": "D009DD3D-B2CD-48E8-8DCE-E78612F0BD3C"
+    }
+  ],
+  "name": "2. 목차",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 595,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 842
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C24A18D-F490-4C5D-9E0B-C50078D8A392",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "281E1229-73A0-409D-91EC-88F0DBE111E4",
+    "guides": [
+    ]
+  }
+}
