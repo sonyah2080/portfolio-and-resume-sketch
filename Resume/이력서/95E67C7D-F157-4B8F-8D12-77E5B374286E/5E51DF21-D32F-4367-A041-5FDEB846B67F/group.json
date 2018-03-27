@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5E51DF21-D32F-4367-A041-5FDEB846B67F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 314,
+    "x": 249,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "95462A4D-C0D5-4378-B5F5-70E8924FB338"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3178EBD-E499-42FC-965E-B92693CA5FED"
+    },
+    {
+      "class": "group",
+      "id": "06125DBA-7030-41D2-8896-160F6B845C65"
+    }
+  ],
+  "name": "학력",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "FCE95817-AEC3-4563-9A4A-250D6C085811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 280,
+    "x": 34,
+    "y": 127
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A1C0A88A-BAD0-45F4-BFA9-D20D44705260"
+    },
+    {
+      "class": "text",
+      "id": "54849BDC-266B-431F-A861-C4D94E5C44FD"
+    },
+    {
+      "class": "text",
+      "id": "F34836E8-46F0-4C3C-BF7B-B5F502B17DE0"
+    },
+    {
+      "class": "text",
+      "id": "5A43EDC8-8A40-4CD3-97D6-F9DF33AFB596"
+    },
+    {
+      "class": "group",
+      "id": "8DAC31F5-9E46-4E8E-BDE6-AAD78AFCAFE4"
+    }
+  ],
+  "name": "이은솔루션",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

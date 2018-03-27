@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "43136355-8DA1-4573-942A-7E8BEAC42610",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 198,
+    "width": 180,
+    "x": 32,
+    "y": 180
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AA848F09-D430-4C90-B01C-129B33B3EAA5"
+    },
+    {
+      "class": "text",
+      "id": "776E7595-4AB1-4EC5-B814-337AB6A94A1F"
+    }
+  ],
+  "name": "나란 누구인가...",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

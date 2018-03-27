@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "1B1DB296-13A2-4A78-B853-260DA03C5ACC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 155,
+    "x": 0,
+    "y": 158
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C5BC4A78-F758-4F26-8D3B-5B2D154BAE37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5580839E-4B48-4859-AF42-3CA4FF6CCCF3"
+    },
+    {
+      "class": "text",
+      "id": "3C86217E-6E69-4723-A98D-BAABF9AAA8D6"
+    }
+  ],
+  "name": "포토샵 copy 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

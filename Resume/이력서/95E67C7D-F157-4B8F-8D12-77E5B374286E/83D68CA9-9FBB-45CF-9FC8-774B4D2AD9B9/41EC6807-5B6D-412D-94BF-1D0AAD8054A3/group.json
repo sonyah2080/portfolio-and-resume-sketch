@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "41EC6807-5B6D-412D-94BF-1D0AAD8054A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47BF5AD6-806B-42C5-8D89-D3DE01B0C0A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75EAAE2F-6962-4CD5-8F62-4971573C04B5",
+    "height": 102,
+    "width": 280,
+    "x": 34,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F8146395-E441-4174-8005-4531F65BB6F3"
+    },
+    {
+      "class": "text",
+      "id": "4D2D9D06-A5C8-40D4-A633-9431C84C87BE"
+    },
+    {
+      "class": "text",
+      "id": "3F774E53-CACA-4971-A928-32C9BDA29C75"
+    },
+    {
+      "class": "text",
+      "id": "16C6B584-E126-4535-B919-CB51DB26B268"
+    },
+    {
+      "class": "group",
+      "id": "AB36031D-8839-46AE-B97A-E612E9E889A9"
+    }
+  ],
+  "name": "이은솔루션 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5615202F-962A-4CDF-8550-FEFB1CBE6490",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

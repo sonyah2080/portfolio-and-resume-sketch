@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "0574D80E-3F7B-4949-A85D-491A0F3CC2FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 280,
+    "x": 34,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "58CC348A-138F-4581-A275-EC927636F4F7"
+    },
+    {
+      "class": "text",
+      "id": "C50DE12D-6CD3-4E39-B58C-18C03327C6C6"
+    },
+    {
+      "class": "text",
+      "id": "A2A146C8-67FC-453A-A8E6-2A9B44C76FCD"
+    },
+    {
+      "class": "text",
+      "id": "94F00176-DDDA-4701-BE7C-38C829E8A140"
+    },
+    {
+      "class": "bitmap",
+      "id": "59A12891-C6AC-4C06-AF1E-13883D5474AD"
+    }
+  ],
+  "name": "트레져헌터",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
