@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "do_objectID": "E82E20BC-59C8-49AA-91C2-4763D3200E20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CA4C3CA-DA4E-48D6-ACA6-A63013817DEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92031BE3-2E52-4081-855A-6949B9B5A9E2",
+    "height": 11,
+    "width": 68,
+    "x": 11,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6FACABF5-74FD-4388-9953-5A8803B3FCE1"
+    },
+    {
+      "class": "group",
+      "id": "A6903FC4-A639-40B0-8E0B-7714AF0A4909"
+    },
+    {
+      "class": "group",
+      "id": "212BC098-6FE9-483E-B374-71D58709DE71"
+    }
+  ],
+  "name": "Back / Forward Tools",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "24965B8E-DAAE-4B94-B368-CA4A4828E59F",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

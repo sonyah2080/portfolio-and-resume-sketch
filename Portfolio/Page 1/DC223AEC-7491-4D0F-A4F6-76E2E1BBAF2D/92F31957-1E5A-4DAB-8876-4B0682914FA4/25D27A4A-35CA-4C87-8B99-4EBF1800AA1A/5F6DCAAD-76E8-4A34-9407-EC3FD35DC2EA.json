@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5F6DCAAD-76E8-4A34-9407-EC3FD35DC2EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "704E4962-95D6-4722-B041-67969245E252",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61540497-8601-4779-B4C0-9F71FAFFB753",
+    "height": 16,
+    "width": 171,
+    "x": 0,
+    "y": 262
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Info/수치",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0964924A-51CA-432B-95CB-68BE79B1BBA0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0251AF0D-41A1-4A78-90A6-313D93164375",
+  "verticalSpacing": 0
+}

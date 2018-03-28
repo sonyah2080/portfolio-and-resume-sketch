@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 176,
     "width": 146,
-    "x": 194,
+    "x": 193,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -39,7 +39,7 @@
     },
     {
       "class": "text",
-      "id": "29F614C3-DBDC-48D2-A81A-D4E84A2BB655"
+      "id": "8AD589FC-02DF-4AAD-8B08-46E60FFFEF07"
     }
   ],
   "name": "Group 2",

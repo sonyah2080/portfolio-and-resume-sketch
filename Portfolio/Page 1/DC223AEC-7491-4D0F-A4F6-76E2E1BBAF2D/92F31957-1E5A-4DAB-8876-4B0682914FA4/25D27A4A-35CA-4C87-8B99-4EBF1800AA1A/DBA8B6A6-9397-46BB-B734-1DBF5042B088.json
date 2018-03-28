@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DBA8B6A6-9397-46BB-B734-1DBF5042B088",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3393626-C0B7-4EC2-B4F9-6D2C47A40F33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE86E270-79B1-40A6-BBCF-F13EE9F9C854",
+    "height": 16,
+    "width": 171,
+    "x": 0,
+    "y": 238
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Info/글작성",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5F8A23C-8D9D-4A08-BD89-5B884EFBDF5E",
+      "overrideName": "80840A28-C9BA-439E-93E0-7D559602BAE6_stringValue",
+      "value": "www.enumnet.com"
+    }
+  ],
+  "overrides": {
+    "80840A28-C9BA-439E-93E0-7D559602BAE6": "www.enumnet.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF36A675-1EE2-4047-B4AF-339524872900",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC979FCE-5B7E-43BC-B2FB-3812C254FE2E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "794090C0-E826-4160-9AF8-4D5096B3A46F",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "C147735E-546D-4326-905B-1006E3353D95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D135AF27-988B-40CA-9DE1-CEEFBA557F06",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D590B99-DFC7-4624-B635-2ED0E0291C2D",
+    "height": 595,
+    "width": 842,
+    "x": 1097,
+    "y": 3202
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CEB2DE8A-612C-48E1-9596-101013ADE762",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A7689FCC-CCE6-4A3F-9992-E10CC590D9A2"
+    },
+    {
+      "class": "group",
+      "id": "3A583762-0D83-455E-8ED3-AD2E21F22C19"
+    },
+    {
+      "class": "bitmap",
+      "id": "0E2A9411-269C-4F57-8C36-361D4CA39B36"
+    },
+    {
+      "class": "bitmap",
+      "id": "4436CE96-3971-4980-B13A-DFD82F990FEF"
+    },
+    {
+      "class": "bitmap",
+      "id": "B1896217-AB20-45F2-B643-298351059746"
+    },
+    {
+      "class": "bitmap",
+      "id": "1ACC5F94-E83A-4EB5-9E86-606599B00626"
+    },
+    {
+      "class": "bitmap",
+      "id": "29A5D9D8-4088-4946-B7DA-A64BB120CB7A"
+    },
+    {
+      "class": "bitmap",
+      "id": "914C491F-5BC2-4ED2-A2A7-2023F5DD4DD9"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B4D0358-B8D7-47BD-BF01-F0CDE65C1358"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD00A259-08DF-428F-B06C-AE9F6E89CC9E"
+    }
+  ],
+  "name": "12. 아트워크",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 595,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 842
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C7589D2-0927-45EB-9A50-1B7FE292C78B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09458DB8-9751-4F65-BAC5-C9A7AC422E90",
+    "guides": [
+    ]
+  }
+}

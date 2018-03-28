@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E1A3BD27-EB67-4F26-8638-AD7547A21D42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26C3712D-7864-4379-8812-F52FEE26E90A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F887BA8A-187F-4CEE-9FD4-660002B56039",
+    "height": 16,
+    "width": 171,
+    "x": 0,
+    "y": 191
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Info/글작성 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "027CB6C9-0D12-432E-93DC-7601189859A8",
+      "overrideName": "3EDD15DA-ECE2-4AEA-AFE2-E5FBCFE6A35C_stringValue",
+      "value": "직책"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2084777-656E-4A8F-8463-DE354AC2FFF0",
+      "overrideName": "80840A28-C9BA-439E-93E0-7D559602BAE6_stringValue",
+      "value": "UX/UI 디자이너"
+    }
+  ],
+  "overrides": {
+    "3EDD15DA-ECE2-4AEA-AFE2-E5FBCFE6A35C": "직책",
+    "80840A28-C9BA-439E-93E0-7D559602BAE6": "UX/UI 디자이너"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBFBF00B-6EAA-403F-B2D2-417DF9D39ECE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC979FCE-5B7E-43BC-B2FB-3812C254FE2E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B3BDE169-D962-47C3-A4AB-01896F055CED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F6C4F81-E217-40AF-A44A-5D72C76EF4AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29855597-8FA9-4813-BA8D-E524409F232B",
+    "height": 8.171745152354788,
+    "width": 510.1837060702869,
+    "x": 0,
+    "y": 286.5218144044321
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A995CD52-C8D6-480C-A274-F078765A5622"
+    }
+  ],
+  "name": "shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C38C4EE7-40A7-41E7-803E-ED0A10DC6E82",
+      "isEnabled": true,
+      "motionAngle": 0,
+      "radius": 12.5,
+      "type": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C6E75C3B-F23C-465D-A23F-BD0B38AF7F81",
+      "opacity": 0.1
+    },
+    "do_objectID": "16E6DE43-3A88-45D9-BFE1-47E1B1988EEB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 5,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "do_objectID": "F4DFCB60-FBFE-4EA4-9E37-21CF1C7B221E",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

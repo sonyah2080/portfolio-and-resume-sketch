@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6D3C2800-E5C0-4E3B-B1C3-16349CFA1289",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66333266-0A87-42BE-808C-2593F7E7A68A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75CA8E8F-50F8-47A8-8F3F-223E401989BE",
+    "height": 16,
+    "width": 171,
+    "x": 0,
+    "y": 215
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Info/글작성",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5F8A23C-8D9D-4A08-BD89-5B884EFBDF5E",
+      "overrideName": "80840A28-C9BA-439E-93E0-7D559602BAE6_stringValue",
+      "value": "비공개 사이트"
+    }
+  ],
+  "overrides": {
+    "80840A28-C9BA-439E-93E0-7D559602BAE6": "비공개 사이트"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9A83A42-9428-4063-9530-E095F2F6D7AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC979FCE-5B7E-43BC-B2FB-3812C254FE2E",
+  "verticalSpacing": 0
+}

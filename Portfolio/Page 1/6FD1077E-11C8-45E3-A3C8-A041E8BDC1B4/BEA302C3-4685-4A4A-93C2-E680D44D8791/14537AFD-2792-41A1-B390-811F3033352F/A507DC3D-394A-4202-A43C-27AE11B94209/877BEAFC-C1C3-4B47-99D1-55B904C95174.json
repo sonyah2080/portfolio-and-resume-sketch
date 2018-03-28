@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "877BEAFC-C1C3-4B47-99D1-55B904C95174",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C7A2328-9E16-4315-9649-A423FED27F9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CB92437-64B3-4020-9D9F-8D1D0BD4334F",
+    "height": 16,
+    "width": 171,
+    "x": 0,
+    "y": 238
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Info/글작성",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A88B8B4D-2778-424E-813F-DB630A68E085",
+      "overrideName": "80840A28-C9BA-439E-93E0-7D559602BAE6_stringValue",
+      "value": "다름(Dareum) 고민상담어플"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEE23673-5A0D-4563-A532-56FAF45F10F4",
+      "overrideName": "3EDD15DA-ECE2-4AEA-AFE2-E5FBCFE6A35C_stringValue",
+      "value": "Playstore"
+    }
+  ],
+  "overrides": {
+    "3EDD15DA-ECE2-4AEA-AFE2-E5FBCFE6A35C": "Playstore",
+    "80840A28-C9BA-439E-93E0-7D559602BAE6": "다름(Dareum) 고민상담어플"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "458B32F1-39BE-4658-ADC0-7EDD1F97778A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC979FCE-5B7E-43BC-B2FB-3812C254FE2E",
+  "verticalSpacing": 0
+}

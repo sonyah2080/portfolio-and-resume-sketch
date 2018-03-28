@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "01A6E34C-7428-498E-A51A-E655FC9C38A8",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "600BC6C8-64A7-491B-A490-5C80C1F3524D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37078242-FAE6-4273-8412-AD83EA36EE54",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D332327-EF51-414D-AB92-EB17536BF728",
+    "height": 595,
+    "width": 842,
+    "x": 155,
+    "y": 3202
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5FEBA9C2-8B7D-4B64-AB61-EDAA646EB559",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8ECFC057-D515-4FDE-90A2-050A182A3C29"
+    },
+    {
+      "class": "bitmap",
+      "id": "DAACD3BD-B41B-414D-9A3E-08463EB09D3E"
+    },
+    {
+      "class": "text",
+      "id": "3F8DDAB7-C8CE-4A67-87BF-C05780363667"
+    },
+    {
+      "class": "bitmap",
+      "id": "DA3468DD-19EF-4A4D-8856-A906A1AD145C"
+    },
+    {
+      "class": "bitmap",
+      "id": "F8F18743-F7E4-49DA-83B2-B97032E4FF73"
+    },
+    {
+      "class": "bitmap",
+      "id": "ED2EA57F-29A0-435B-A691-26B4BD1FE882"
+    },
+    {
+      "class": "bitmap",
+      "id": "0EC5B38C-76CE-4E43-9BA6-03D5838803D7"
+    }
+  ],
+  "name": "11. 유튜브 디자인",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 595,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 842
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55E3F727-96E3-4460-858B-26246F8AD23C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "555972FF-1469-4F32-BB09-3D8963CE4363",
+    "guides": [
+    ]
+  }
+}

@@ -14,16 +14,16 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 354,
-    "width": 561,
-    "x": 146,
-    "y": 130
+    "width": 567,
+    "x": 138,
+    "y": 166
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",

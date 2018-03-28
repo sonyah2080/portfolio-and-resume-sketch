@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3807A3AA-5803-4D66-9238-9365FD01D2D6",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "EA834821-446A-40B6-ABBA-ED02018CCF18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1918193-1C12-4345-9838-5C72433A6BA1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73BC4B97-39C2-496E-A24B-DB836DB4FFA7",
+    "height": 595,
+    "width": 842,
+    "x": 1097,
+    "y": 2452
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6599A585-E50C-4002-B743-4F25A2F0ABA5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "CE89FFC5-5A25-45F9-ADEC-3C4162D5B565"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB2D5739-C073-443B-95D3-BE41F5506C5A"
+    },
+    {
+      "class": "bitmap",
+      "id": "5A05828F-96F6-4C71-8BCE-B6009B78BFAD"
+    },
+    {
+      "class": "bitmap",
+      "id": "1571E50A-73A5-461A-829F-98F18CB03548"
+    },
+    {
+      "class": "bitmap",
+      "id": "C8027B8E-598F-4E48-9A77-D4AD38AF2058"
+    },
+    {
+      "class": "text",
+      "id": "89C2344A-E564-45B6-9C91-C1114B399C98"
+    },
+    {
+      "class": "group",
+      "id": "210E0911-065D-446D-AFA2-3DC0FADC929D"
+    }
+  ],
+  "name": "9. 다름 ppt",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 595,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 842
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "754C0D12-3C75-4221-8D42-11E616314E7E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C777F2CC-8AA1-432F-9F65-B725F32D8A0B",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "3A20D583-585F-4E25-A953-60B8BCE2BD99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80C79983-A4BA-40EE-AB70-81E8E055F056",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BA625CF1-2C84-4CD9-AA46-8BCAC37F1C54",
+    "height": 30.5,
+    "width": 171,
+    "x": 0,
+    "y": 329
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d0d854e3cc0cb2ff76a45410766aa6af239c00b7",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ENUMNET_LOGO@4x",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E47706E-0DC0-4987-895D-E3005157525A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
