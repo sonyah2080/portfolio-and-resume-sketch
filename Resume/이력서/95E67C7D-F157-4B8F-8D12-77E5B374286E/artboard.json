@@ -35,7 +35,7 @@
     "y": -104
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -77,19 +77,19 @@
     },
     {
       "class": "group",
-      "id": "83D68CA9-9FBB-45CF-9FC8-774B4D2AD9B9"
+      "id": "DD343481-C5BE-45FB-89D5-1D6E773BEB83"
     },
     {
       "class": "group",
-      "id": "5E51DF21-D32F-4367-A041-5FDEB846B67F"
-    },
-    {
-      "class": "group",
-      "id": "C7E8548D-6738-4899-ACD7-ADBE5C5EB648"
+      "id": "5AF9906B-85C8-4F11-A5E8-8C51BED8F8CC"
     },
     {
       "class": "group",
       "id": "43136355-8DA1-4573-942A-7E8BEAC42610"
+    },
+    {
+      "class": "group",
+      "id": "5E51DF21-D32F-4367-A041-5FDEB846B67F"
     }
   ],
   "name": "SoyePark-resume-2018",
