@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "88B2ADB4-2722-4219-8958-129E94BF63BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC6DBC29-FBBC-4C50-9229-F3E6097964C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "231CDDE7-9D37-43CF-A31B-80FA60403E61",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF836341-7357-4199-832D-0398F3D3CD4E"
+    }
+  ],
+  "name": "유튜브 copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74ED7723-4A95-4DB9-A7AE-E41A1E82D72B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

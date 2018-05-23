@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C95CF1BE-CCFA-4D0E-ADF9-E5DC7A4AA0E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "210022A2-4899-4425-94DF-50CAE6BE6E5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F26AE20-97F2-4ACE-97A6-8C2EA0BDBC1A",
+    "height": 36,
+    "width": 112,
+    "x": 0,
+    "y": 72
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "portfolio",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E8910C1-A578-4654-B3C4-51CAA806CAFF",
+      "overrideName": "CCF2E8F8-414B-4DC7-BE5D-F331057BACB0_stringValue",
+      "value": "Portfolio"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F74BAF7-B71C-46CB-BDAB-69C043549A56",
+      "overrideName": "693E22DC-2675-4A58-88AA-B78A674C767C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AB7041B-C34A-4177-912E-C40E08584F35",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2E9CD363-1F14-41FD-8B42-BA57B82D99C7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

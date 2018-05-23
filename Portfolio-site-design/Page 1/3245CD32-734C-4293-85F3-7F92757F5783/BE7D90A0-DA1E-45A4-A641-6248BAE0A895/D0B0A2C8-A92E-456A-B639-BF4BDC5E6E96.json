@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D0B0A2C8-A92E-456A-B639-BF4BDC5E6E96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "743982F2-9895-4E46-A8E1-85D1688C70B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CC3353D-2EF1-4956-92C0-0A5BDB6F5BFC",
+    "height": 34,
+    "width": 93,
+    "x": 0,
+    "y": 34
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "목록/순서 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23DC0540-B324-48CA-A621-C274AE76BB6E",
+      "overrideName": "1FF9BFB1-75C1-45EB-9FFE-70ED0101F9DE_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FA90FEA-4F54-4C78-910E-1292C76183A2",
+      "overrideName": "24FDEBD9-8051-4762-9C70-9A7A317D61D7/AB91DEC2-AFAD-4DB6-A629-A3DC2E8B6D91_symbolID",
+      "value": "D42D90A0-642F-4956-8468-38019473DD2D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C309C281-EF79-4C2F-8FC2-876F76F56AE7",
+      "overrideName": "7C78BB92-BC38-4748-A9CE-54983F2D42ED_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DEE5C75-22D6-4793-805F-81BC244BE5B3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "83ED856C-8792-422F-BB59-074CD13DE105",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

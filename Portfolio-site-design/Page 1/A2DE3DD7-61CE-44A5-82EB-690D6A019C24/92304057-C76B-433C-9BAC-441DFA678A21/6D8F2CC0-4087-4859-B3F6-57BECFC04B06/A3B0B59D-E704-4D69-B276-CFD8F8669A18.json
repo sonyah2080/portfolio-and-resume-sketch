@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A3B0B59D-E704-4D69-B276-CFD8F8669A18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "843F7083-B73E-4F94-902B-A5A33438DBD1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B027075A-F25D-4AE2-9E1B-6ECCE3D6929A",
+    "height": 36,
+    "width": 112,
+    "x": 0,
+    "y": 36
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "label-cv",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E8910C1-A578-4654-B3C4-51CAA806CAFF",
+      "overrideName": "CCF2E8F8-414B-4DC7-BE5D-F331057BACB0_stringValue",
+      "value": "About"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12FB29D2-1732-4865-BB0E-2BA25BE66005",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2E9CD363-1F14-41FD-8B42-BA57B82D99C7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "922D9E91-9561-4892-BABB-E598B6D2DB86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC55FC1D-D171-4436-AB02-4F8A3E486669",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52AD1E0A-326C-4F4F-AD65-84CB19E16FC6",
+    "height": 26,
+    "width": 87,
+    "x": 241,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BFE8D0A5-E3D5-47C5-B368-65BA2DF6BF1F"
+    },
+    {
+      "class": "group",
+      "id": "29B26A10-8985-4810-9536-4A404A7A80F6"
+    },
+    {
+      "class": "text",
+      "id": "DBB9FE81-323F-4E68-9785-01C0121C5E66"
+    }
+  ],
+  "name": "Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59074D96-7E0D-4B36-9191-2433D4319D6D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

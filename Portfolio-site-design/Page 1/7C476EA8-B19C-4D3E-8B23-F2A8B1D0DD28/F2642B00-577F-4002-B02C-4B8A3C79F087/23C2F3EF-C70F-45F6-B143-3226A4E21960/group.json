@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "23C2F3EF-C70F-45F6-B143-3226A4E21960",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3966EFE-CE73-4FC5-9CA4-A37354EBEAD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50311440-3433-4F4F-B837-EAA4BD0DE320",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1E83B640-3564-44BC-A894-04CDEB95D754"
+    }
+  ],
+  "name": "페이스북 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7117BE8C-1C89-4701-9599-80B943B45DD9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

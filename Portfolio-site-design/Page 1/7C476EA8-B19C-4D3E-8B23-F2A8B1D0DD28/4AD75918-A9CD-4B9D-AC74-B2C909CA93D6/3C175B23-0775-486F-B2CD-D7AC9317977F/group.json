@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "3C175B23-0775-486F-B2CD-D7AC9317977F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38EEF29D-15BC-4D0E-9A3C-40562792B0EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "965FF1B1-894F-46B5-9946-4B1D2EB85BDC",
+    "height": 42,
+    "width": 44,
+    "x": 30,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BBA9F131-0A9A-4BCC-9B9E-B3818989D13D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F4E0BD8-9555-4E05-904C-3CB5111E7102"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97785B1C-77CE-449E-A146-7C00D73BC34A"
+    }
+  ],
+  "name": "Ai Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "242AFC1D-A760-4775-8AAA-D8FD7A41E9F4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CF0949F2-CBFA-40C9-89C8-5185AE9EDF98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCF6CD31-C21D-4EF1-8912-195DC82E3538",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D55C883B-8B2C-489D-82B6-062545F41D1B",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "instagram",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2F59393-89A9-4F37-8CE7-15324E8FDCE0",
+      "overrideName": "3B62B84D-4C14-47E0-9C6C-1AA1E493A4DE_symbolID",
+      "value": "64537EE2-FAC0-43C0-9D8C-FC6A4717398F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85F116E9-99B2-42B8-B7FE-E94783AA65CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3644BD14-810F-4811-ACE7-47DB1C891318",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

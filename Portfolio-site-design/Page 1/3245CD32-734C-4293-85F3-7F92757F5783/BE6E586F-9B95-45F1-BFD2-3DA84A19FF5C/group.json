@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "BE6E586F-9B95-45F1-BFD2-3DA84A19FF5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 118,
+    "width": 388,
+    "x": 408,
+    "y": 421
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6462FA44-3347-469C-9D83-446FAD547C5D"
+    },
+    {
+      "class": "text",
+      "id": "438EF322-7D27-4AF2-8ED1-9EA66C727BB0"
+    },
+    {
+      "class": "text",
+      "id": "5E30C483-9AFA-4C5C-BFC6-489F7B3175C1"
+    },
+    {
+      "class": "text",
+      "id": "C6FB5F62-ED82-46CC-8F13-CE6D530DFA50"
+    },
+    {
+      "class": "text",
+      "id": "00166AFE-33B0-417F-A086-03A5B785174C"
+    }
+  ],
+  "name": "학업",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

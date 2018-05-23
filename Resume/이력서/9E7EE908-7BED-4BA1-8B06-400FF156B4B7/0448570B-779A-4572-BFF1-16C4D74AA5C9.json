@@ -1,0 +1,112 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansCJKkr-Regular",
+              "size": 12
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 535,
+        "location": 0
+      }
+    ],
+    "string": "회사 내부 협업에 유용하게 사용할 수 있으며, 테마 디자인을 직접 RGB색상값을 이용하여 꾸밀 수 있는 자유도가 존재한다는 점이 매력적이었던 것 같습니다. 개인적인 정보를 많이 요구하는 메신저들인 카카오톡, 라인과 달리 이메일 인증 한 번으로 서비스를 이용할 수 있고 폐쇄적이기 때문에 내 개인정보를 누군가가 알아내서 개인적인 연락을 한다거나 감시한다라는 느낌이 없어서 좋습니다. 그리고 협업을 할 때, 다양한 프로그램들을 연결해서 사용할 수 있기 때문에 알람기능이나 ‘@someone’ 기능, DM을 통해 여러 방법으로 커뮤니케이션을 할 수 있고, 개발자와 디자이너의 경우 git을 연동하거나, zeplin을 연동하여 빠른 피드백을 만들 수 있습니다. \n회사에서의 협업뿐만 아니라 다양한 주제의 슬랙을 통해 다양한 직종에서 일하고 있는 사람들을 좀 더 쉽게 만나고 얘기해 볼 수 있으며, 거리와 상관없이 언어만 통한다면 스마트폰이나 노트북, 데스크톱을 이용하여 연락할 수 있다는 점에서 협업이상의 관계를 만들어낼 수 있기에 슬랙이라는 서비스를 좋아합니다."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "0448570B-779A-4572-BFF1-16C4D74AA5C9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0098AA6-137C-4737-B3C8-8445B0409845",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04553802-9074-42BB-AE88-A323A52E6FE4",
+    "height": 240,
+    "width": 531,
+    "x": 32,
+    "y": 173
+  },
+  "glyphBounds": "{{0, 7}, {527, 227}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "회사 내부 협업에 유용하게 사용할 수",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4473B677-EA52-4747-AFE1-42F1FCC3A7E5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "99F66836-5C0C-4645-AF65-34D374DAFEC4",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "NotoSansCJKkr-Regular",
+            "size": 12
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

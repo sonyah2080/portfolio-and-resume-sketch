@@ -36,9 +36,6 @@
       "value": "비공개 사이트"
     }
   ],
-  "overrides": {
-    "80840A28-C9BA-439E-93E0-7D559602BAE6": "비공개 사이트"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -42,12 +42,6 @@
       "value": "noixp9@gmail.com"
     }
   ],
-  "overrides": {
-    "511ED9E0-1E96-4AC4-94DA-BA965F96E67A": {
-      "symbolID": "3BBE11F0-7924-49F5-BB00-94BD33477A94"
-    },
-    "EA9E41BC-6A59-4E03-89D0-0F962E904454": "noixp9@gmail.com"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

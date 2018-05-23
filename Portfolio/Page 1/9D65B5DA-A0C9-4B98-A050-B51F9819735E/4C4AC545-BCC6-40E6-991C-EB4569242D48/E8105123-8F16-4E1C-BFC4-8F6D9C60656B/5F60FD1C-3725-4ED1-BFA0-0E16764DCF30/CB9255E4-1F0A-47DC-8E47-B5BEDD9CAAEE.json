@@ -36,11 +36,6 @@
       "value": "E93A7A64-C2FE-427F-9C36-D42DC8A20BBD"
     }
   ],
-  "overrides": {
-    "3FD21C78-4415-4E2A-9108-D583A614905E": {
-      "symbolID": "E93A7A64-C2FE-427F-9C36-D42DC8A20BBD"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

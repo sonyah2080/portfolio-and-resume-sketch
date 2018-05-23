@@ -42,12 +42,6 @@
       "value": "@sonyah_2080"
     }
   ],
-  "overrides": {
-    "511ED9E0-1E96-4AC4-94DA-BA965F96E67A": {
-      "symbolID": "F69D78DF-791B-4FC8-AAAE-262E87D493B7"
-    },
-    "EA9E41BC-6A59-4E03-89D0-0F962E904454": "@sonyah_2080"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

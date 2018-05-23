@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CE2B7F95-8351-4B9D-88E5-32631FD594C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABCB14CE-CE6A-4099-AB8F-09E691D8E7E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "859C7BB6-AB0A-44E4-9429-2FD5C33129E1",
+    "height": 34,
+    "width": 93,
+    "x": 0,
+    "y": 34
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "목록/순서 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23DC0540-B324-48CA-A621-C274AE76BB6E",
+      "overrideName": "1FF9BFB1-75C1-45EB-9FFE-70ED0101F9DE_stringValue",
+      "value": "2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A415799F-2F0E-428F-8BCD-FDBDD43CF5AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "83ED856C-8792-422F-BB59-074CD13DE105",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
